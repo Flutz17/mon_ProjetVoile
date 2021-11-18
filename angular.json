@@ -50,7 +50,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+				"./node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -118,7 +118,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+				"./node_modules/bootstrap/dist/css/bootstrap.css",
+				"styles.scss"
             ],
             "scripts": []
           }
