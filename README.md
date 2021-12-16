@@ -34,7 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-Documentation projet Angular
+## Documentation projet Angular
 
 Prérequis : 
 
@@ -75,7 +75,7 @@ il me faudrait au moins 1 semaine pour pouvoir récupérer les descriptions et l
 
 
 
-Document réussites et échecs 
+## Document réussites et échecs 
 
 
 Échec :
